@@ -11,3 +11,5 @@ function my_theme_enqueue_styles() {
         wp_get_theme()->get('Version')
     );
 }
+
+    /* Opening tags are required, closing tags are only needed if you have other code ( HTML, CSS) after them in the same file. */
