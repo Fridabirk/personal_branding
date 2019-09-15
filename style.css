@@ -1,0 +1,48 @@
+/*
+ Theme Name:   Catch Fullscreen Child
+ Theme URI:    http://bybirk.com/twenty-fifteen-child/
+ Description:  Catch Fullscreen Child Theme
+ Author:       Frida Birk
+ Author URI:   http://bybirk.com
+ Template:     catch-fullscreen
+ Version:      1.0.0
+ Text Domain:  catchfullscreen-child
+*/
+
+/*menubar, vertical*/
+#menu {-webkit-writing-mode: vertical-lr;
+ display: block;
+  position: absolute;
+  z-index: 3;
+  
+}
+/*standard farver + font */ 
+p {
+  font-family: "Helvetica", sans serif;
+}
+h3 {font-family: "Bungee Hairline", sans serif;
+color: #f4f4f4;}
+
+body {
+  background-color: #262626;
+  color: white; 
+  font-family: sans-serif, Helvetica; 
+}
+
+
+/*cursor*/
+
+
+
+body {
+    cursor: url(https://bybirk.com/wp-content/uploads/2019/09/mouse1.png), pointer;
+}
+
+
+/*outline typografi*/ 
+#outlinetyp{  
+       
+  text-shadow: -1px -1px 0 #262626, 1px -1px 0 #f4f4f4, -1px 1px 0 #303030, 1px 1px 0 #000;
+                      }
+                   
+                    
